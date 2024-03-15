@@ -1,16 +1,29 @@
-# clima
+# Clima
 
-A new Flutter project.
+A simple flutter application to see the weather of any city in the world.
 
-## Getting Started
+## Technology Stack
+- Flutter
+- Dart
+- OpenWeatherMap API
+- Geolocator
+- HTTP
+- JSON
+- Material Design
+- Android Studio
 
-This project is a starting point for a Flutter application.
+## Features
+- Get the weather of your current location
+- Search for a city by name to get its weather
 
-A few resources to get you started if this is your first Flutter project:
+## Working
+- The app uses the Geolocator package to get the current location of the user.
+- It uses the OpenWeatherMap API to get the weather of the current location or the location searched by the user.
+- The HTTP package is used to make requests to the OpenWeatherMap API.
+- Material Design package is used to create a beautiful UI.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+![Screenshot 1](images/clima 1.jpg)
+![Screenshot 2](images/clima 2.jpg)
+![Screenshot 3](images/clima 3.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
