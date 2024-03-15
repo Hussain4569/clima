@@ -23,7 +23,7 @@ A simple flutter application to see the weather of any city in the world.
 - Material Design package is used to create a beautiful UI.
 
 ## Screenshots
-![Screenshot 1](images/clima 1.jpg)
-![Screenshot 2](images/clima 2.jpg)
-![Screenshot 3](images/clima 3.jpg)
+![Screenshot 1](./images/clima1.jpg)
+![Screenshot 2](./images/clima2.jpg)
+![Screenshot 3](./images/clima3.jpg)
 
